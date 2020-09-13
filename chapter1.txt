@@ -1,3 +1,16 @@
+git init
+git status
+git add chapter1.txt    -- staging area
+git commit -m "Complate Chapter 1"
+git log
+
+git add .
+git commit -m "Complate Chapter 2 and 3"
+
+--config
+  git config --global user.email "hwan.dev@gmail.com"
+  git config --global user.name "Hwan"
+
 chapter 1.
 
 first story
@@ -10,3 +23,5 @@ end.
 command >
 
 git init
+git status
+git add chapter1.txt    -- staging area
