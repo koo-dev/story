@@ -6,6 +6,7 @@ git log
 
 git add .
 git commit -m "Complate Chapter 2 and 3"
+git commit -m "Complate Chapter 4"
 
 --config
   git config --global user.email "hwan.dev@gmail.com"
