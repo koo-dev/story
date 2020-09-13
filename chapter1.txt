@@ -1,0 +1,12 @@
+chapter 1.
+
+first story
+
+블라블라
+
+end.
+
+
+command >
+
+git init
